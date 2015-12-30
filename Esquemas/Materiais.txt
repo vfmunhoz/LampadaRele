@@ -1,0 +1,7 @@
+1 Rele 5v
+1 Diodo 1N4007 (ou similar)
+1 Transistor BC548 (ou equivalente NPN)
+2 resistores de 10 K
+1 Led
+1 push button
+1 resistor 330 ohms
